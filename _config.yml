@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/images/avatar.jpg"
+  name             : "Алиса Попова"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Студентка РУДН, факультет ФМиЕН, прикладная информатика"
+  location         : "Моска, Россия"
+  employer         : "РУДН"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1132259391@rudn.ru" 
 
   # Academic websites
   academia         : # URL
