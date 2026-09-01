@@ -14,8 +14,8 @@ main:
   - title: "Новости"
     url: /talks/    
 
-  - title: "Обучение"
-    url: /teaching/    
+ # - title: "Обучение"
+  #  url: /teaching/    
     
   - title: "Портфолио"
     url: /portfolio/
@@ -23,8 +23,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
