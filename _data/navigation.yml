@@ -11,8 +11,8 @@ main:
   - title: "Публикации"
     url: /publications/
 
-  - title: "Новости"
-    url: /talks/    
+  - title: "news"
+    url: /blog/    
 
  # - title: "Обучение"
   #  url: /teaching/    
