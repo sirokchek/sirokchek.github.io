@@ -32,18 +32,15 @@ author:
   uri              : # URL
   email            : "1132259391@rudn.ru" 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
+  eLibrary         : "https://www.elibrary.ru/author_info.asp?isold=1"
+  googlescholar    : "https://scholar.google.com/citations?hl=ru&user=B3Pj4V4AAAAJ"
+  Mendeley         : "https://www.mendeley.com/settings/account"
+  academia.edu     : "https://independent.academia.edu/alicepopova"
+  orcid            : "https://orcid.org/0009-0007-8606-5671"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Alice-Popova"
+  github           : "https://github.com/sirokchek"
+
 
 
   # Repositories and software development
